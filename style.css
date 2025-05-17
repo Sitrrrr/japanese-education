@@ -6,12 +6,16 @@ body {
 }
 .hello{
 color: #2d0522 ;
-font-size: 90 px ;
+font-size: 50 px ;
+ text-align: center ;
     
 }
-.text{
-text-align: center ;
+.p{
+    text-align: center ;
+    color: #2d0522 ;
+    font-size: 50 px ;
 }
+
 
 footer{
 background-color: #604959
