@@ -7,6 +7,12 @@ body {
 .hello{
 color: #2d0522 ;
 font-size: 90 px ;
+    
+}
+.text{
+text-align: center ;
 }
 
-  
+footer{
+background-color: #604959
+}
