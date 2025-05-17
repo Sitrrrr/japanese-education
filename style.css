@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Share+Tech&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
-
 body {
     background-color: #c793b8 ;
+    text-align: center
 }
 
 }
 .hello{
 color: #2d0522 ;
-text-align: center ;
-font-size: 90 ;
+font-size: 90 px ;
 }
 
   
